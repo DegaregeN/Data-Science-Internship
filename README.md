@@ -9,9 +9,10 @@
 
 The objective of the project\
 General objective\
-The primary objective of this analysis was to apply machine learning techniques to classify the causes of postpartum hemorrhage in Ethiopia. \
-Specific objectives\
-1.	Identify the primary causes of PPH (uterine atony, trauma, retained tissue, and thrombin disorders) based on available clinical data.\
+The primary objective of this analysis was to apply machine learning techniques to classify the causes of postpartum hemorrhage in Ethiopia. 
+
+Specific objectives
+1.	Identify the primary causes of PPH (uterine atony, trauma, retained tissue, and thrombin disorders) based on available clinical data.
 2.	Assess the performance of various machine learning algorithms in distinguishing between these causes.
 
 
