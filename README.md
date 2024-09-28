@@ -17,25 +17,6 @@ Specific objectives
 
 ## The folder Structure is 
 
-├── .vscode/
-│   └── settings.json
-├── .github/
-│   └── workflows
-│       ├── unittests.yml
-|__data
-|__myvenv
-├── .gitignore
-├── requirements.txt
-|__license
-├── README.md
- |------ src/
-├── notebooks/
-│   ├── __init__.py
-│   └── README.md
-├── tests/
-│   ├── __init__.py
-└── scripts/
-    ├── __init__.py
-    └── README.md
+![alt text](image.png)
 
 
